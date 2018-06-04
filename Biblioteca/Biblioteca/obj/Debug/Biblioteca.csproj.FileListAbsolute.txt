@@ -1,0 +1,6 @@
+c:\users\aluno\documents\visual studio 2015\Projects\Biblioteca\Biblioteca\bin\Debug\Biblioteca.exe.config
+c:\users\aluno\documents\visual studio 2015\Projects\Biblioteca\Biblioteca\bin\Debug\Biblioteca.exe
+c:\users\aluno\documents\visual studio 2015\Projects\Biblioteca\Biblioteca\bin\Debug\Biblioteca.pdb
+c:\users\aluno\documents\visual studio 2015\Projects\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csprojResolveAssemblyReference.cache
+c:\users\aluno\documents\visual studio 2015\Projects\Biblioteca\Biblioteca\obj\Debug\Biblioteca.exe
+c:\users\aluno\documents\visual studio 2015\Projects\Biblioteca\Biblioteca\obj\Debug\Biblioteca.pdb
