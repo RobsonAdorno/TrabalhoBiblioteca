@@ -7,9 +7,14 @@ using Biblioteca.Model;
 
 namespace Biblioteca.DAL
 {
-    class EmprestimoDAO
+    class EmprestimoDAO:DevolucaoDAO
     {
         private static Context ctx = SingletonContext.GetInstance();
+
+        public static Emprestimo BuscarLivroEmprestado(Emprestimo e)
+        {
+            return ctx.Emprestimos.FirstOrDefault
+        }
 
       public static void Cadastrar(Emprestimo e)
         {
