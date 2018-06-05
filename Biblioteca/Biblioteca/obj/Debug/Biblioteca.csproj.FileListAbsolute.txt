@@ -4,3 +4,15 @@ c:\users\aluno\documents\visual studio 2015\Projects\Biblioteca\Biblioteca\bin\D
 c:\users\aluno\documents\visual studio 2015\Projects\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csprojResolveAssemblyReference.cache
 c:\users\aluno\documents\visual studio 2015\Projects\Biblioteca\Biblioteca\obj\Debug\Biblioteca.exe
 c:\users\aluno\documents\visual studio 2015\Projects\Biblioteca\Biblioteca\obj\Debug\Biblioteca.pdb
+C:\Users\Robson\Desktop\TrabalhoBiblioteca\Biblioteca\Biblioteca\bin\Debug\Biblioteca.exe.config
+C:\Users\Robson\Desktop\TrabalhoBiblioteca\Biblioteca\Biblioteca\obj\Debug\Biblioteca.exe
+C:\Users\Robson\Desktop\TrabalhoBiblioteca\Biblioteca\Biblioteca\obj\Debug\Biblioteca.pdb
+C:\Users\Robson\Desktop\TrabalhoBiblioteca\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csprojResolveAssemblyReference.cache
+C:\Users\Robson\Desktop\TrabalhoBiblioteca\Biblioteca\Biblioteca\bin\Debug\Biblioteca.exe
+C:\Users\Robson\Desktop\TrabalhoBiblioteca\Biblioteca\Biblioteca\bin\Debug\Biblioteca.pdb
+C:\Users\Robson\Desktop\TrabalhoBiblioteca\Biblioteca\Biblioteca\bin\Debug\EntityFramework.dll
+C:\Users\Robson\Desktop\TrabalhoBiblioteca\Biblioteca\Biblioteca\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Robson\Desktop\TrabalhoBiblioteca\Biblioteca\Biblioteca\bin\Debug\EntityFramework.xml
+C:\Users\Robson\Desktop\TrabalhoBiblioteca\Biblioteca\Biblioteca\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Robson\Desktop\TrabalhoBiblioteca\Biblioteca\Biblioteca\obj\Debug\Biblioteca.Migrations.TableBiblio.resources
+C:\Users\Robson\Desktop\TrabalhoBiblioteca\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csproj.GenerateResource.Cache

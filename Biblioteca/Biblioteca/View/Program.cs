@@ -26,10 +26,12 @@ namespace Biblioteca.View
                 switch (op)
                 {
                     case "1":
-                        LoginView.Executar();
+                        
                     break;
 
                     case "2":
+
+                        VendedorView.Executar();
                         break;
 
                     case "0":
