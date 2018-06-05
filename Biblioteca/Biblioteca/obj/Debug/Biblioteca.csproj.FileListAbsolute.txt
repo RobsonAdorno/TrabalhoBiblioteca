@@ -16,3 +16,15 @@ C:\Users\Robson\Desktop\TrabalhoBiblioteca\Biblioteca\Biblioteca\bin\Debug\Entit
 C:\Users\Robson\Desktop\TrabalhoBiblioteca\Biblioteca\Biblioteca\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\Robson\Desktop\TrabalhoBiblioteca\Biblioteca\Biblioteca\obj\Debug\Biblioteca.Migrations.TableBiblio.resources
 C:\Users\Robson\Desktop\TrabalhoBiblioteca\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csproj.GenerateResource.Cache
+C:\Users\rferreira\Desktop\TrabalhoBiblioteca\Biblioteca\Biblioteca\bin\Debug\Biblioteca.exe.config
+C:\Users\rferreira\Desktop\TrabalhoBiblioteca\Biblioteca\Biblioteca\obj\Debug\Biblioteca.exe
+C:\Users\rferreira\Desktop\TrabalhoBiblioteca\Biblioteca\Biblioteca\obj\Debug\Biblioteca.pdb
+C:\Users\rferreira\Desktop\TrabalhoBiblioteca\Biblioteca\Biblioteca\bin\Debug\Biblioteca.exe
+C:\Users\rferreira\Desktop\TrabalhoBiblioteca\Biblioteca\Biblioteca\bin\Debug\Biblioteca.pdb
+C:\Users\rferreira\Desktop\TrabalhoBiblioteca\Biblioteca\Biblioteca\bin\Debug\EntityFramework.dll
+C:\Users\rferreira\Desktop\TrabalhoBiblioteca\Biblioteca\Biblioteca\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\rferreira\Desktop\TrabalhoBiblioteca\Biblioteca\Biblioteca\bin\Debug\EntityFramework.xml
+C:\Users\rferreira\Desktop\TrabalhoBiblioteca\Biblioteca\Biblioteca\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\rferreira\Desktop\TrabalhoBiblioteca\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csprojResolveAssemblyReference.cache
+C:\Users\rferreira\Desktop\TrabalhoBiblioteca\Biblioteca\Biblioteca\obj\Debug\Biblioteca.Migrations.DBBiblioteca.resources
+C:\Users\rferreira\Desktop\TrabalhoBiblioteca\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csproj.GenerateResource.Cache

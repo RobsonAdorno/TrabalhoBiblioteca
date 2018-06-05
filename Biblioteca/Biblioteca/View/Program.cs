@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Biblioteca.DAL;
+using Biblioteca.Model;
 
 namespace Biblioteca.View
 {
@@ -14,10 +16,12 @@ namespace Biblioteca.View
 
             do
             {
+                Console.WriteLine("---------------------------------------------");
                 Console.WriteLine("\n   -----Cadastro-----      \n");
+                Console.WriteLine("---------------------------------------------");
                 Console.WriteLine("1) - Realizar Login");
                 Console.WriteLine("---------------------------------------------");
-                Console.WriteLine("2) - Cadastro Vendedor");
+                Console.WriteLine("2) - Cadastrar-se");
                 Console.WriteLine("---------------------------------------------");
                 Console.WriteLine("0) - Sair do programa");
                 Console.WriteLine("---------------------------------------------");
@@ -26,11 +30,10 @@ namespace Biblioteca.View
                 switch (op)
                 {
                     case "1":
-                        
+                        LoginView.Executar();
                     break;
 
                     case "2":
-
                         VendedorView.Executar();
                         break;
 

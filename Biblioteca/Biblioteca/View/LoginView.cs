@@ -13,18 +13,22 @@ namespace Biblioteca.View
 
         public static void Executar()
         {
-            Login l = new Login();
-            Console.WriteLine("Por favor, digite o Usuário!");
-            Login.Usuario = Console.ReadLine();
-            Console.WriteLine("Por favor, digite a Senha!");
-            Login.Senha = Convert.ToInt32(Console.ReadLine());
+            Vendedor v = new Vendedor();
+            Console.WriteLine("Digite o seu login!");
+            string login = Console.ReadLine();
 
-            if (LoginDAO.Cadastrar(l))
+            Console.WriteLine("Digite a sua senha!");
+            string senha = Console.ReadLine();
+
+            if (VendedorDAO.EfetuarLogin(login,senha))
             {
                 Console.WriteLine("Login efetuado com sucesso!");
                 Apresentation.Login();
             }
-            
+            else
+            {
+                Console.WriteLine("Usuário ou senha inválido!");
+            }
         }
     }
 }

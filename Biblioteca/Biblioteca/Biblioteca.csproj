@@ -53,9 +53,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="DAL\VendedorDAO.cs" />
-    <Compile Include="Migrations\201806050336130_TableBiblio.cs" />
-    <Compile Include="Migrations\201806050336130_TableBiblio.Designer.cs">
-      <DependentUpon>201806050336130_TableBiblio.cs</DependentUpon>
+    <Compile Include="Migrations\201806051245400_DBBiblioteca.cs" />
+    <Compile Include="Migrations\201806051245400_DBBiblioteca.Designer.cs">
+      <DependentUpon>201806051245400_DBBiblioteca.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Model\Cliente.cs" />
@@ -63,6 +63,7 @@
     <Compile Include="Model\SingletonContext.cs" />
     <Compile Include="Model\Vendedor.cs" />
     <Compile Include="View\Apresentation.cs" />
+    <Compile Include="View\LoginView.cs" />
     <Compile Include="View\Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="View\VendedorView.cs" />
@@ -72,8 +73,8 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="Migrations\201806050336130_TableBiblio.resx">
-      <DependentUpon>201806050336130_TableBiblio.cs</DependentUpon>
+    <EmbeddedResource Include="Migrations\201806051245400_DBBiblioteca.resx">
+      <DependentUpon>201806051245400_DBBiblioteca.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
