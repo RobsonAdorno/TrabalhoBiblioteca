@@ -52,10 +52,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DAL\ClienteDAO.cs" />
     <Compile Include="DAL\VendedorDAO.cs" />
-    <Compile Include="Migrations\201806051245400_DBBiblioteca.cs" />
-    <Compile Include="Migrations\201806051245400_DBBiblioteca.Designer.cs">
-      <DependentUpon>201806051245400_DBBiblioteca.cs</DependentUpon>
+    <Compile Include="Migrations\201806051458426_DBBIBLIO.cs" />
+    <Compile Include="Migrations\201806051458426_DBBIBLIO.Designer.cs">
+      <DependentUpon>201806051458426_DBBIBLIO.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Model\Cliente.cs" />
@@ -63,6 +64,7 @@
     <Compile Include="Model\SingletonContext.cs" />
     <Compile Include="Model\Vendedor.cs" />
     <Compile Include="View\Apresentation.cs" />
+    <Compile Include="View\ClienteView.cs" />
     <Compile Include="View\LoginView.cs" />
     <Compile Include="View\Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -73,8 +75,8 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="Migrations\201806051245400_DBBiblioteca.resx">
-      <DependentUpon>201806051245400_DBBiblioteca.cs</DependentUpon>
+    <EmbeddedResource Include="Migrations\201806051458426_DBBIBLIO.resx">
+      <DependentUpon>201806051458426_DBBIBLIO.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

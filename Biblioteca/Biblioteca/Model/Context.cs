@@ -12,5 +12,10 @@ namespace Biblioteca.Model
         public Context() : base("BibliotecaEcoville") { }
 
         public DbSet<Vendedor> Vendedores { get; set; }
+        public DbSet<Cliente> Clientes { get; set; }
+
+        public DbSet<Livro> Livros { get; set; }
+
+        public DbSet<Emprestimo> Emprestimos { get; set; }
     }
 }

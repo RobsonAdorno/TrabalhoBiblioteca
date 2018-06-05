@@ -3,27 +3,26 @@ namespace Biblioteca.Migrations
     using System;
     using System.Data.Entity.Migrations;
     
-    public partial class DBBiblioteca : DbMigration
+    public partial class DBBIBLIO : DbMigration
     {
         public override void Up()
         {
             CreateTable(
-                "dbo.Vendedor",
+                "dbo.Cliente",
                 c => new
                     {
-                        VendedorID = c.Int(nullable: false, identity: true),
-                        CPF = c.String(),
+                        ClienteID = c.Int(nullable: false, identity: true),
                         Nome = c.String(),
-                        Login = c.String(),
-                        Senha = c.String(),
+                        CPF = c.String(),
+                        Data = c.DateTime(nullable: false),
                     })
-                .PrimaryKey(t => t.VendedorID);
+                .PrimaryKey(t => t.ClienteID);
             
         }
         
         public override void Down()
         {
-            DropTable("dbo.Vendedor");
+            DropTable("dbo.Cliente");
         }
     }
 }

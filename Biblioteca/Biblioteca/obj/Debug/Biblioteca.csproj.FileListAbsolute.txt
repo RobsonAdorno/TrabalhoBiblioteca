@@ -26,5 +26,5 @@ C:\Users\rferreira\Desktop\TrabalhoBiblioteca\Biblioteca\Biblioteca\bin\Debug\En
 C:\Users\rferreira\Desktop\TrabalhoBiblioteca\Biblioteca\Biblioteca\bin\Debug\EntityFramework.xml
 C:\Users\rferreira\Desktop\TrabalhoBiblioteca\Biblioteca\Biblioteca\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\rferreira\Desktop\TrabalhoBiblioteca\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csprojResolveAssemblyReference.cache
-C:\Users\rferreira\Desktop\TrabalhoBiblioteca\Biblioteca\Biblioteca\obj\Debug\Biblioteca.Migrations.DBBiblioteca.resources
+C:\Users\rferreira\Desktop\TrabalhoBiblioteca\Biblioteca\Biblioteca\obj\Debug\Biblioteca.Migrations.DBBIBLIO.resources
 C:\Users\rferreira\Desktop\TrabalhoBiblioteca\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csproj.GenerateResource.Cache

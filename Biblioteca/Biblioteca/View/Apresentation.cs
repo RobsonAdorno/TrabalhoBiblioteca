@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Biblioteca.Model;
+using Biblioteca.View;
 
 namespace Biblioteca
 {
@@ -22,9 +23,9 @@ namespace Biblioteca
                 Console.WriteLine("---------------------------------------------");
                 Console.WriteLine("\n--Cadastro de Livro--\n");
                 Console.WriteLine("---------------------------------------------");
-                Console.WriteLine("1) - Cadastrar Livro");
+                Console.WriteLine("1) - Cadastrar Cliente ");
                 Console.WriteLine("---------------------------------------------");
-                Console.WriteLine("2) - Cadastrar Cliente");
+                Console.WriteLine("2) - Cadastrar Livro");
                 Console.WriteLine("---------------------------------------------");
                 Console.WriteLine("3) - Emprestar Livro");
                 Console.WriteLine("---------------------------------------------");
@@ -41,10 +42,15 @@ namespace Biblioteca
                 switch (op)
                 {
                     case "1":
+                        ClienteView.Executar();
+                        break;
 
+                    case "2":
+                        LivroView.Executar();
                         break;
 
                     case "3":
+                        EmprestimoView.Executar();
                         break;
 
                     case "4":

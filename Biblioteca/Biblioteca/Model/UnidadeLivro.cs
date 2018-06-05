@@ -8,14 +8,12 @@ using System.Threading.Tasks;
 
 namespace Biblioteca.Model
 {
-    [Table("Cliente")]
-    class Cliente
+    [Table("Unidades")]
+    class UnidadeLivro
     {
         [Key]
-        public int ClienteID { get; set; }
-        public string Nome { get; set; }
-        public string CPF { get; set; }
-
-        public DateTime Data { get; set; }
+        public int UnidadeID { get; set; }
+        public Livro Livro { get; set; }
+        public int Unidade { get; set; }
     }
 }
